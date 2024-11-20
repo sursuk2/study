@@ -9,7 +9,7 @@ public class Test {
         Lesson3 lesson3 = new Lesson3();
 
         lesson3.setNumber1(scanner.nextInt());
-        lesson3.setNumber2(scanner.nextInt());
+        lesson3.setNumber2(scanner.nextInt());stxrdyctfuvygibunhojpom
 
         System.out.println(lesson3.getNumber1() + lesson3.getNumber2());
 
